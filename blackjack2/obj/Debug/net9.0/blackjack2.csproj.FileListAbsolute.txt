@@ -1,0 +1,14 @@
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\obj\Debug\net9.0\blackjack2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\obj\Debug\net9.0\blackjack2.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\obj\Debug\net9.0\blackjack2.AssemblyInfo.cs
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\obj\Debug\net9.0\blackjack2.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\bin\Debug\net9.0\blackjack2.exe
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\bin\Debug\net9.0\blackjack2.deps.json
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\bin\Debug\net9.0\blackjack2.runtimeconfig.json
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\bin\Debug\net9.0\blackjack2.dll
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\bin\Debug\net9.0\blackjack2.pdb
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\obj\Debug\net9.0\blackjack2.dll
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\obj\Debug\net9.0\refint\blackjack2.dll
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\obj\Debug\net9.0\blackjack2.pdb
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\obj\Debug\net9.0\blackjack2.genruntimeconfig.cache
+C:\Users\vinic\Documents\GITHUB-COPILOT\blackjack2\obj\Debug\net9.0\ref\blackjack2.dll
